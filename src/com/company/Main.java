@@ -6,5 +6,6 @@ public class Main {
         System.out.println("hey brother!");
         System.out.println("hey sister");
         System.out.println("do u know that blood is thicker");
+        System.out.println("do u know that blood is thicker");
     }
 }
